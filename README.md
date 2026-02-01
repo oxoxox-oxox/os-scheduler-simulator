@@ -74,7 +74,7 @@ If you want to use another data to simulate, just change it in the main.cpp
     //change the amount of time system dealed once 
 ```
 
-**remember to recompile it once you have changed the main.cpp**
+### **remember to recompile it once you have changed the main.cpp**
 
 ---
 
